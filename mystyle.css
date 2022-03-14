@@ -1,0 +1,8 @@
+content-table{
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+    width: 100%;
+}
+tr:nth-child(even) {
+    background-color:lightblue ;
+  }
